@@ -1,0 +1,25 @@
+#hero-section{
+    background-image: url(../assets/images/8bca9520-39e4-404a-8326-5f6358e2d9b9.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+
+
+}
+#br-text{
+    padding: 8px 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+#a-text{
+    letter-spacing: 2px;
+}
+#projects-section .card{
+    margin-bottom: 16px;
+}
+#About-section img{
+    filter: grayscale(70%);
+}
+header{
+    z-index: 100;
+}
